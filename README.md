@@ -1,2 +1,2 @@
-# webdev-angela-yu
+# Web Development Bootcamp
 Projects from the course.
